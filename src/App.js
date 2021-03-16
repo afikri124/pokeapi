@@ -31,7 +31,7 @@ const useStyles = makeStyles((theme) => ({
     textAlign:'center'
   },
   container:{
-    minHeight:'80vh'
+    minHeight:'75vh'
   }
 }));
 
